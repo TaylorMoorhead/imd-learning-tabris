@@ -9,7 +9,7 @@ const {
   app, TextInput
 } = require('tabris');
 
-const IMAGE_PATH = 'https://github.com/TaylorMoorhead/imd-learning-tabris/images/';
+const IMAGE_PATH = 'https://github.com/TaylorMoorhead/imd-learning-tabris/tree/master/images/';
 const MY_GITHUB_REPO = 'https://github.com/TaylorMoorhead/imd-learning-tabris'
 
 // global variables
